@@ -126,4 +126,8 @@ venv.bak/
 dmypy.json
 
 # Pyre type checker
-.pyre/
+.pyreo/
+
+# dataset large file ignore
+a8725fd0b96811eb.zip
+dataset/
